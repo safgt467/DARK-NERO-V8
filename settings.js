@@ -18,25 +18,25 @@ global.ANTI_BADWORD = 'false' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'MAD VECNA ʙᴏᴛ'
+global.alivemsg = 'MAD VECNAx ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0763239193'] //ur owner number
-global.ownername = "SAFRAZz" //ur owner name
+global.owner = ['0722524718'] //ur owner number
+global.ownername = "SAFRAZzz" //ur owner name
 global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "SRI LANKA, colombo, henamulla" //ur location
 
 //bot bomdy 
-global.session = "NFhqRWhXd0g=" //session Id
-global.ownernomer = "94763239193" //ur number
+global.session = "" //session Id
+global.ownernomer = "94722524718" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94763239193'] //ur premium number
-global.botname = 'MAD-VECNA ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.premium = ['94722524718'] //ur premium number
+global.botname = 'MAD-VECNAx ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "MAD VECNA By" //ur sticker watermark packname
+global.packname = "MAD VECNAx By" //ur sticker watermark packname
 global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
 global.wm = "Dark Bot Inc." //ur watermark
 
